@@ -88,7 +88,7 @@ if [ -f 95proxy ]; then
     cp 95proxy /etc/apt/apt.conf.d/
 fi
 
-date -s "19 FEB 2026 16:45:00"
+date -s "04 JUN 2026 10:00:00"
 
 apt update
 
